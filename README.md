@@ -33,7 +33,7 @@
 <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-吃辣椒的小柏-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=吃辣椒的小柏&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
